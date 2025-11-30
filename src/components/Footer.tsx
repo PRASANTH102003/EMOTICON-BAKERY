@@ -75,7 +75,7 @@ export const Footer = () => {
                   className="text-muted-foreground hover:text-primary transition-colors flex items-center gap-2"
                 >
                   <Mail className="h-4 w-4" />
-                  contact@theobroma.in
+                  emoticonbakery.com
                 </a>
               </li>
               <li>
@@ -84,7 +84,7 @@ export const Footer = () => {
                   className="text-muted-foreground hover:text-primary transition-colors flex items-center gap-2"
                 >
                   <Phone className="h-4 w-4" />
-                  8182881881
+                  8686186208
                 </a>
               </li>
             </ul>
@@ -123,3 +123,4 @@ export const Footer = () => {
     </footer>
   );
 };
+
